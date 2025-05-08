@@ -1,4 +1,5 @@
 # AulaPatricia
 
 Repositorio da turma 1tscpg 2025
-#alteracao feia localmente
+#alteracao feita localmente
+alteracao feita remotamente
